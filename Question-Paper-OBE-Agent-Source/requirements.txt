@@ -1,0 +1,6 @@
+streamlit>=1.33
+plotly
+fpdf2
+PyMuPDF
+pytesseract
+Pillow
